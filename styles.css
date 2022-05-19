@@ -29,7 +29,7 @@ body{
     margin: 0;
     }
 nav{
-    padding-top: 1.5;
+    padding-top: 1.5;/*Needs a unit*/
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -82,4 +82,4 @@ a:visited{
     padding-bottom: 3rem;
 }
 @media (min-width:294px)
-
+/*Unfinished media query*/
